@@ -1,0 +1,6 @@
+apiVersion: "pipelinesascode.tekton.dev/v1alpha1"
+kind: Repository
+metadata:
+  name: h2iir8dy4-java-quarkus-repository
+spec:
+  url: https://github.com/xjiangorg/h2iir8dy4-java-quarkus
